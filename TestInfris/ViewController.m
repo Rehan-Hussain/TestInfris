@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"first branch commit done");
+    NSLog(@"first branch want to merge commit done");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
